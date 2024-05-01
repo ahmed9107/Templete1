@@ -273,8 +273,8 @@ body{
 }
 .portfolio .portfolio-content{
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
-    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 30px;
     margin-top: 80px;
 }
 .portfolio .portfolio-content .card{
@@ -292,5 +292,9 @@ body{
 .portfolio .portfolio-content .card .info p {
     line-height: var(--line-height);
     color: var(--text-color);
+    margin-bottom: 0;
 }
 /* End portfolio */
+
+/* Start About */
+/* End About */
