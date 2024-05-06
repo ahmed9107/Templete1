@@ -327,5 +327,13 @@ body{
 }
 .about .about-content .image::after{
     content: "";
+    position: absolute;
+    width: 100px;
+    height: 50%;
+    top: -25px;
+    right: -125px;
+    border-left: 80px solid var(--main-color);
+    border-bottom: 80px solid var(--main-color);
+    z-index: -1;
 }
 /* End About */
