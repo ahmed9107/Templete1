@@ -1,3 +1,3 @@
 # Templete1
 DEMO:
-https://ahmed9107.github.io/Templete1.github.io/
+https://ahmed9107.github.io/Templete1/
